@@ -1,0 +1,24 @@
+
+/*
+    import css styles
+*/
+@import url(css.ui.min.css);
+@import url(https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css);
+@import url(modal.box.css);
+
+/*
+    elements
+*/
+body {
+    background-color: #f4f4f4;
+         font-family: 'Segoe UI', Frutiger, 'Frutiger Linotype', 'Dejavu Sans', 'Helvetica Neue', Arial, sans-serif;
+	     padding: 10px 10px 0;
+}
+
+/*
+    layout
+*/
+.container {
+    margin-top: 50px;
+     max-width: 1170px;
+}
