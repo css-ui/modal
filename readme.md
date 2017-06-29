@@ -1,5 +1,8 @@
 ## Modal
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/fc5ce857041f4388a0a2c836b6a078e2)](https://www.codacy.com/app/accgit/modal?utm_source=github.com&utm_medium=referral&utm_content=css-ui/modal&utm_campaign=badger)
+
+
 Simple modal box.
 
 ## Instruction
