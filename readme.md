@@ -1,3 +1,3 @@
 ## Modal
 
-Simple modal box.
+Simple modal box, based on CSS UI.
