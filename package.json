@@ -1,0 +1,23 @@
+{
+	"name": "css-ui-modal-box",
+	"version": "1.0.7",
+	"description": "Simple modal box.",
+	"main": "css/style.modal.box.css",
+	"repository": {
+		"type": "git",
+		"url": "git+https://accgit@github.com/css-ui/modal.git"
+	},
+	"keywords": [
+		"modal"
+	],
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/css-ui/modal/issues"
+	},
+	"dependencies": {
+		"css-ui-simple": "^2.5.1",
+		"open-sans-fontface": "^1.4.0",
+		"font-awesome": "^4.7.0"
+	},
+	"homepage": "https://github.com/css-ui/modal#readme"
+}
